@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>DNA Overview</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68427</md:content-id>
+  <md:title>DNA Overview</md:title>
+  <md:abstract>1. List the components of a nucleotide and what comprises the “genetic code.”
+2. Differentiate between deoxyribonucleic acid (DNA), nucleotides, and chromosomes.  
+3. Explain, in general terms, how cells know what proteins to make.
+4. Define mutation and relate this to the DNA code</md:abstract>
+  <md:uuid>ff546650-ff27-4adf-b7c8-6625dbde967f</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Deoxyribonucleic acid (DNA) is the hereditary material common to all living things.  DNA is a macromolecule made up of a string of smaller units called nucleotides.  Each nucleotide is made up of a sugar, a phosphate group and a base.  There are four different possible bases, adenine, thymine, cytosine and guanine, and it is the order of these bases which make up the DNA “code.”  DNA is found in the nuclei of all human cells, and serves as the blueprint for the production of the proteins necessary to maintain life.  In human beings, this DNA is organized into 23 pairs of chromosomes.  Before a cell divides, it replicates its DNA so that both daughter cells have a complete copy of the DNA blueprint.  Occasionally, errors are made in DNA replication.  Because the order of base pairs determine the proteins a cell makes, these errors, if left uncorrected, can lead to the production of different proteins.  Errors in DNA replication that result in changes in the DNA molecule are called mutations.  For more information about DNA, see the laboratory manual for this course, as well as any additional resources posted on the canvas site.  </para></content>
+
+
+</document>

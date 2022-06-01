@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Genes are Regulated</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68401</md:content-id>
+  <md:title>How Genes are Regulated</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss why every cell does not express all of its genes</item>
+<item>Understand that human gene expression occurs at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list></md:abstract>
+  <md:uuid>725bbd6e-2d4c-45ce-bddf-0ea713a39bf4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm23717456">For a cell to function properly, necessary proteins must be synthesized at the proper time. All organisms and cells control or regulate the transcription and translation of their DNA into protein. The process of turning on a gene to produce RNA and protein is called <term>gene expression</term>. Whether in a simple unicellular organism or in a complex multicellular organism, each cell controls when and how its genes are expressed. For this to occur, there must be a mechanism to control when a gene is expressed to make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no longer needed.</para>
+<para id="fs-idp30260000">Cells in multicellular organisms are specialized; cells in different tissues look very different and perform different functions. For example, a muscle cell is very different from a liver cell, which is very different from a skin cell. These differences are a consequence of the expression of different sets of genes in each of these cells. All cells have certain basic functions they must perform for themselves, such as converting the energy in sugar molecules into energy in ATP. Each cell also has many genes that are not expressed, and expresses many that are not expressed by other cells, such that it can carry out its specialized functions. In addition, cells will turn on or off certain genes at different times in response to changes in the environment or at different times during the development of the organism. Unicellular organismsalso turn on and off genes in response to the demands of their environment so that they can respond to special conditions.</para><para id="fs-idp100648688">The control of gene expression is extremely complex. Malfunctions in this process are detrimental to the cell and can lead to the development of many diseases, including cancer.</para>
+<section id="fs-idm10196880">
+<title>Gene Expression</title><para id="fs-idp103450048">To understand how gene expression is regulated, we must first understand how a gene becomes a functional protein in a cell. In simple organisms like bacteria, the primary method to control what type and how much protein is expressed is through the regulation of DNA transcription into RNA.  Animal cells, in contrast, have intracellular organelles and are much more complex. Recall that in complex cells, the DNA is contained inside the cell’s nucleus and it is transcribed into mRNA there. The newly synthesized mRNA is then transported out of the nucleus into the cytoplasm, where ribosomes translate the mRNA into protein. The processes of transcription and translation are physically separated by the nuclear membrane; transcription occurs only within the nucleus, and translation only occurs outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process (<link target-id="fig-ch09_05_01" document=""/>). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors (<term>epigenetic</term> level), when the RNA is transcribed (transcriptional level), when RNA is processed and exported to the cytoplasm after it is transcribed (<term>post-transcriptional</term> level), when the RNA is translated into protein (translational level), or after the protein has been made (<term>post-translational</term> level).</para><figure id="fig-ch09_05_01"><media id="fs-idp70668208" alt="Illustration shows the steps of protein synthesis in three steps: transcription, RNA processing, and translation. In transcription, the RNA strand is synthesized by RNA polymerase in the 5' to 3' direction. In RNA processing, a primary RNA transcript with three exons and two introns is shown. In the spliced transcript, the introns are removed and the exons are fused together. A 5' cap and poly-A tail have also been added. In translation, an initiator tRNA recognizes the sequence AUG on the mRNA that is associated with the small ribosomal subunit. The large subunit joins the complex. Next, a second tRNA is recruited at the A site. A peptide bond is formed between the first amino acid, which is at the P site, and the second amino acid, which is at the A site. The mRNA then shifts and the first tRNA is moved to the E site, where it dissociates from the ribosome. Another tRNA binds the A site, and the process is repeated.">
+<image mime-type="image/jpg" src="../../media/Figure_09_05_01.jpg" width="320"/>
+</media>
+
+<caption>Human gene expression is regulated during transcription and RNA processing, which take place in the nucleus, as well as during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of proteins.</caption></figure></section>
+<section id="fs-idm23447328" class="summary">
+<title>Section Summary</title><para id="fs-idm108488528">While all somatic cells within an organism contain the same DNA, not all cells within that organism express the same proteins. Simple organisms like bacteria express the entire DNA they encode in every cell, but not necessarily all at the same time. Proteins are expressed only when they are needed. Complex  organisms express a subset of the DNA that is encoded in any given cell. In each cell type, the type and amount of protein is regulated by controlling gene expression. To express a protein, the DNA is first transcribed into RNA, which is then translated into proteins. In simple cells, these processes occur almost simultaneously. In animal cells, transcription occurs in the nucleus and is separate from the translation that occurs in the cytoplasm. In animal cells, gene expression is regulated at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels.</para></section>
+</content>
+<glossary>
+<definition id="fs-idp56742192">
+<term>epigenetic</term> <meaning id="fs-idp158210576">describing non-genetic regulatory factors, such as changes in modifications to histone proteins and DNA that control accessibility to genes in chromosomes</meaning>
+</definition>
+<definition id="fs-idp138805296">
+<term>gene expression</term> <meaning id="fs-idp86273760">processes that control whether a gene is expressed</meaning>
+</definition>
+<definition id="fs-idm22198416">
+<term>post-transcriptional</term> <meaning id="fs-idp37534192">control of gene expression after the RNA molecule has been created but before it is translated into protein</meaning>
+</definition>
+<definition id="fs-idp58398928">
+<term>post-translational</term> <meaning id="fs-idp91363344">control of gene expression after a protein has been created</meaning>
+</definition>
+</glossary>
+</document>

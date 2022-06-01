@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Translation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68373</md:content-id>
+  <md:title>Translation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the central dogma</item>
+<item>Explain the main steps of transcription</item>
+<item>Describe how eukaryotic mRNA is processed</item>
+</list></md:abstract>
+  <md:uuid>ca4c83e7-e42a-4c21-a02d-898d3ea2a25f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm251297776">In all cells, the second function of DNA (the first was replication) is to provide the information needed to construct the proteins necessary so that the cell can perform all of its functions. To do this, the DNA is “read” or transcribed into an <term>mRNA</term> molecule. The mRNA then provides the code to form a protein by a process called translation. Through the processes of transcription and translation, a protein is built with a specific sequence of amino acids that was originally encoded in the DNA. This module discusses the details of transcription.</para><section id="fs-idm272639392">
+<title>The Central Dogma: DNA Encodes RNA; RNA Encodes Protein</title>
+<para id="fs-idm163364432">The flow of genetic information in cells from DNA to mRNA to protein is described by the central dogma (<link target-id="fig-ch09_03_01" document=""/>), which states that genes specify the sequences of mRNAs, which in turn specify the sequences of proteins.</para>
+<figure id="fig-ch09_03_01">
+<media id="fs-idm246946032" alt="A flow chart shows DNA, with an arrow to RNA, which has an arrow to protein.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_01.jpg" width="320"/>
+</media>
+<caption>The central dogma states that DNA encodes RNA, which in turn encodes protein.</caption>
+</figure>
+<para id="fs-idm140150544">The copying of DNA to mRNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every complementary nucleotide read in the DNA strand. The translation to protein is more complex because groups of three mRNA nucleotides correspond to one amino acid of the protein sequence. However, as we shall see in the next module, the translation to protein is still systematic, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.</para>
+</section>
+<section id="fs-idm186750192">
+<title>Transcription: from DNA to mRNA</title>
+<para id="fs-idm202854864">Transcription occurs in three main stages:  initiation, elongation and termination.  Because genes in animal cells are found in the nucleus, transcription occurs in the nucleus of the cell and the mRNA transcript must be transported to the cytoplasm. </para><section id="fs-idm261773808">
+<title>Initiation</title>
+<para id="fs-idm163336272">Transcription requires the DNA double helix to partially unwind in the region of mRNA synthesis. The region of unwinding is called a <term>transcription bubble</term>. The DNA sequence onto which the proteins and enzymes involved in transcription bind to initiate the process is called a <term>promoter</term>. In most cases, promoters exist upstream of the genes they regulate. The specific sequence of a promoter is very important because it determines whether the corresponding gene is transcribed all of the time, some of the time, or hardly at all (<link target-id="fig-ch09_03_02" document=""/>).</para>
+<figure id="fig-ch09_03_02">
+<media id="fs-idm149093872" alt="Illustration shows a template strand and nontemplate strand of DNA, with a promoter section in red on the template strand. Downstream of the promoter is an RNA polymerase where RNA is being synthesized.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_02.jpg" width="350"/>
+</media>
+<caption>The initiation of transcription begins when DNA is unwound, forming a transcription bubble. Enzymes and other proteins involved in transcription bind at the promoter.</caption>
+</figure>
+</section>
+<section id="fs-idm196004880">
+<title>Elongation</title>
+<para id="fs-idm231361840">Transcription always proceeds from one of the two DNA strands, which is called the <term>template strand</term>. The mRNA product is complementary to the template strand and is almost identical to the other DNA strand, called the <term>nontemplate strand</term>, with the exception that RNA contains a uracil (U) in place of the thymine (T) found in DNA. During elongation, an enzyme called <term>RNA polymerase</term> proceeds along the DNA template adding nucleotides by base pairing with the DNA template in a manner similar to DNA replication, with the difference that an RNA strand is being synthesized that does not remain bound to the DNA template. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and rewound behind it (<link target-id="fig-ch09_03_03" document=""/>).</para>
+<figure id="fig-ch09_03_03">
+<media id="fs-idm186648224" alt="Illustration shows RNA synthesis by RNA polymerase. The RNA strand is synthesized in the 5' to 3' direction.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_03.jpg" width="500"/>
+</media>
+<caption>During elongation, RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5' to 3' direction, and unwinds then rewinds the DNA as it is read.</caption>
+</figure>
+</section>
+<section id="fs-idm210831152">
+<title>Termination</title>
+<para id="fs-idm205159088">Once a gene is transcribed, the polymerase needs to be instructed to dissociate from the DNA template and liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination signals, but both involve repeated nucleotide sequences in the DNA template that result in RNA polymerase stalling, leaving the DNA template, and freeing the mRNA transcript.
+On termination, the process of transcription is complete. After termination, the transcript can be transported out of the nucleus, where translation can occur.</para></section>
+</section>
+<section id="fs-idm184754816" class="summary"><title>Section Summary</title><para id="fs-idm251532880">In animal cells, mRNA synthesis is initiated at a promoter sequence on the DNA template. Elongation synthesizes new mRNA. Termination liberates the mRNA and occurs by mechanisms that stall the RNA polymerase and cause it to fall off the DNA template. Only finished mRNAs are exported from the nucleus to the cytoplasm.</para></section></content>
+<glossary>
+<definition id="fs-idm310909024">
+<term>mRNA</term> <meaning id="fs-idm996160">messenger RNA; a form of RNA that carries the nucleotide sequence code for a protein sequence that is translated into a polypeptide sequence</meaning>
+</definition>
+<definition id="fs-idm311346400">
+<term>nontemplate strand</term> <meaning id="fs-idm186641232">the strand of DNA that is not used to transcribe mRNA; this strand is identical to the mRNA except that T nucleotides in the DNA are replaced by U nucleotides in the mRNA</meaning>
+</definition>
+<definition id="fs-idm145978432">
+<term>promoter</term> <meaning id="fs-idm112082400">a sequence on DNA to which RNA polymerase and associated factors bind and initiate transcription</meaning>
+</definition>
+<definition id="fs-idm145539664">
+<term>RNA polymerase</term> <meaning id="fs-idm244502224">an enzyme that synthesizes an RNA strand from a DNA template strand</meaning>
+</definition>
+<definition id="fs-idm261278336">
+<term>template strand</term> <meaning id="fs-idm228484496">the strand of DNA that specifies the complementary mRNA molecule</meaning>
+</definition>
+<definition id="fs-idm248644048">
+<term>transcription bubble</term> <meaning id="fs-idm119804080">the region of locally unwound DNA that allows for transcription of mRNA</meaning>
+</definition>
+</glossary>
+</document>
